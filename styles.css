@@ -14,8 +14,8 @@
   width: 20vw;
   height: 20vw;
   float: left;
-  border: 1w solid white;
-  background-color: beige;
+  border: 1vw solid black;
+  background-color: orange;
 }
 
 .Gameboard div {
@@ -24,7 +24,7 @@
   height: 100%;
 }
 
-.Column1 {
+.Column4 {
   background-image: url(images/circle-cage.png);
   background-size: cover;
 }
@@ -45,6 +45,11 @@
 }
 
 .Column2 {
+  background-image: url(images/split-cross.png);
+  background-size: cover;
+}
+
+.Column7 {
   background-image: url(images/split-cross.png);
   background-size: cover;
 }
